@@ -1,0 +1,6 @@
+c:\users\agreen\documents\visual studio 2015\Projects\manna-server\manna-server\bin\Debug\manna-server.exe.config
+c:\users\agreen\documents\visual studio 2015\Projects\manna-server\manna-server\bin\Debug\manna-server.exe
+c:\users\agreen\documents\visual studio 2015\Projects\manna-server\manna-server\bin\Debug\manna-server.pdb
+c:\users\agreen\documents\visual studio 2015\Projects\manna-server\manna-server\obj\Debug\manna-server.csprojResolveAssemblyReference.cache
+c:\users\agreen\documents\visual studio 2015\Projects\manna-server\manna-server\obj\Debug\manna-server.exe
+c:\users\agreen\documents\visual studio 2015\Projects\manna-server\manna-server\obj\Debug\manna-server.pdb
